@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gyandeep Singh</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-
+<img align="right" src="68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966.gif" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gyandeep07&label=Profile%20views&color=0e75b6&style=flat" alt="gyandeep07" /> </p>
 
 - 🌱 I’m currently learning **java python html css**
